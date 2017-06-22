@@ -43,15 +43,6 @@ body {
   cursor: pointer;
 }
 
-.tips {
-  position: absolute;
-  right: 40px;
-  bottom: 31px;
-  color: #555;
-  font-size: 12px;
-  font-family: "San Francisco", PingFang, STHeiTi, 文泉驛微米黑, Ubuntu, 微軟正黑體;
-}
-
 .iframe {
   display: inline-block;
   vertical-align: top;
